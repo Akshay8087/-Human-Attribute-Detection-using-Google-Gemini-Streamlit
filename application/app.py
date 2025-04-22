@@ -5,7 +5,7 @@ import PIL.Image
 import datetime
 
 # 🌐 Set API Key securely (better to use secrets in production)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBIHyAfW8D9EfLjvPoWyJwt_rMERF7vQaE"
+os.environ["GOOGLE_API_KEY"] = "Add Your API Key Here OK"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # 🎯 Load the Gemini Model
