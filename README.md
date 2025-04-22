@@ -24,7 +24,7 @@ A powerful AI-driven web application that detects **human attributes** from uplo
 ## 🧠 Demo
 
 Try the live version (if deployed):  
-[🔗 Streamlit Cloud / Hugging Face Spaces](#) *(Add your live link here if hosted)*
+[🔗 Streamlit Cloud / Hugging Face Spaces](#)
 
 ---
 
