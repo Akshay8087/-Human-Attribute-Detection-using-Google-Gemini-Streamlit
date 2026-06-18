@@ -6,7 +6,7 @@ A powerful AI-driven web application that detects **human attributes** from uplo
 
 ![App Preview](https://github.com/Akshay8087/your-project-path/assets/preview.gif) <!-- Add screenshot or GIF if available -->
 
----
+------
 
 ## 🚀 Features
 
